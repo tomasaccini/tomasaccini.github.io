@@ -31,7 +31,7 @@
     // Initialize and Configure Scroll Reveal Animation
     window.sr = ScrollReveal();
     sr.reveal('.sr-icons', {
-        duration: 6000,
+        duration: 2000,
         scale: 0.3,
         distance: '0px'
     }, 200);
